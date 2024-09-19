@@ -25,7 +25,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Monitor
-  introTitle: "The uptime monitor and status page, powered by [**Safone**](https://safone.dev)"
+  introTitle: "The uptime status page powered by [**Safone**](https://safone.dev)"
   navbar:
     - title: Status
       href: /

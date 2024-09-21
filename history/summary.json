@@ -4,9 +4,9 @@
     "url": "https://api.safone.dev",
     "icon": "https://icons.duckduckgo.com/ip3/api.safone.dev.ico",
     "slug": "safone-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 469,
     "timeMonth": 469,
     "timeYear": 469,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   },
   {
     "name": "Github API",

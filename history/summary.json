@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safone.dev.ico",
     "slug": "safone-api",
     "status": "up",
-    "uptime": "87.42%",
+    "uptime": "87.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.24%",
-    "uptimeMonth": "87.42%",
-    "uptimeYear": "87.42%",
+    "uptimeWeek": "83.05%",
+    "uptimeMonth": "87.98%",
+    "uptimeYear": "87.98%",
     "time": 916,
     "timeDay": 608,
     "timeWeek": 1376,
@@ -27,9 +27,9 @@
     "url": "https://gh-api.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/gh-api.glitch.me.ico",
     "slug": "github-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 276,
     "timeMonth": 236,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-02": 0
+    }
   },
   {
     "name": "24/7 Radio",

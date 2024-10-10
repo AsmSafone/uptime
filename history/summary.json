@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safone.dev.ico",
     "slug": "safone-api",
     "status": "up",
-    "uptime": "92.39%",
+    "uptime": "92.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.39%",
-    "uptimeYear": "92.39%",
+    "uptimeMonth": "92.71%",
+    "uptimeYear": "92.71%",
     "time": 818,
     "timeDay": 401,
     "timeWeek": 571,
@@ -119,17 +119,19 @@
     "url": "https://udemy-rmpn.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/udemy-rmpn.onrender.com.ico",
     "slug": "udemy-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 201,
-    "timeWeek": 248,
-    "timeMonth": 220,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 218,
+    "timeDay": 195,
+    "timeWeek": 249,
+    "timeMonth": 218,
+    "timeYear": 218,
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   }
 ]

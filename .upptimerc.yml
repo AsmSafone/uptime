@@ -15,8 +15,6 @@ sites:
     url: https://auth-w1dd.onrender.com
   - name: Forward Bot
     url: https://aforward.onrender.com
-  - name: Udemy Bot
-    url: https://udemy-rmpn.onrender.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

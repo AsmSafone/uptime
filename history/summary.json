@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.safone.dev.ico",
     "slug": "safone-api",
     "status": "down",
-    "uptime": "85.60%",
+    "uptime": "85.51%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.67%",
-    "uptimeMonth": "85.60%",
-    "uptimeYear": "85.60%",
+    "uptimeWeek": "61.23%",
+    "uptimeMonth": "85.51%",
+    "uptimeYear": "85.51%",
     "time": 762,
     "timeDay": 0,
     "timeWeek": 526,
     "timeMonth": 762,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2024-10-19": 224,
+      "2024-10-19": 268,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 760,
@@ -69,7 +69,7 @@
     "url": "https://my-meet.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/my-meet.onrender.com.ico",
     "slug": "my-meet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -80,7 +80,9 @@
     "timeWeek": 400,
     "timeMonth": 397,
     "timeYear": 397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-19": 0
+    }
   },
   {
     "name": "Auth Bot",
@@ -88,18 +90,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-w1dd.onrender.com.ico",
     "slug": "auth-bot",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "89.86%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.44%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 959,
     "timeDay": 1586,
     "timeWeek": 2128,
     "timeMonth": 959,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2024-10-19": 14,
       "2024-10-18": 217,
       "2024-10-17": 22
     }

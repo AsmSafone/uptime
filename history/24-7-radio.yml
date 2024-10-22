@@ -1,7 +1,7 @@
 url: https://rtmp.fly.dev/start
-status: up
-code: 200
-responseTime: 2019
-lastUpdated: 2024-10-21T23:12:24.177Z
+status: down
+code: 502
+responseTime: 17647
+lastUpdated: 2024-10-22T19:08:42.039Z
 startTime: 2024-09-19T19:39:35.796Z
 generator: Upptime <https://github.com/upptime/upptime>
